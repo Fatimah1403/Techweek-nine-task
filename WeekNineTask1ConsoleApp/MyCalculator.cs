@@ -35,19 +35,19 @@ namespace WeekNineTask1ConsoleApp
         public static double Difference(double num1, double num2)
          {
             myCalculators.Add(new MyCalculator() { initialNumber1 = num1, initialNumber2 = num2, action = "-", results = result });
-            result = num2 - num1;
+            result = num1 - num2;
             return result;
         }
         public static double Product(double num1, double num2)
         {
             myCalculators.Add(new MyCalculator() { initialNumber1 = num1, initialNumber2 = num2, action = "*", results = result });
-            result = num2 * num1;
+            result = num1 * num2;
             return result;
         }
         public static double Division(double num1, double num2)
         {
             myCalculators.Add(new MyCalculator() { initialNumber1 = num1, initialNumber2 = num2, action = "/", results = result });
-            result = num2 / num1;
+            result = num1 / num2;
             return result;
         }
         public static double Square(double num1, double num2)
