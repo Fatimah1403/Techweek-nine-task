@@ -1,0 +1,110 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Women techsters\\fattyass tasks\\weekninetask1\\WeekNineTask1ConsoleApp\\WeekNineTask1ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Women techsters\\fattyass tasks\\weekninetask1\\NineTask1\\NineTask1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Women techsters\\fattyass tasks\\weekninetask1\\NineTask1\\NineTask1.csproj",
+        "projectName": "NineTask1",
+        "projectPath": "C:\\Women techsters\\fattyass tasks\\weekninetask1\\NineTask1\\NineTask1.csproj",
+        "packagesPath": "C:\\Users\\kydba\\.nuget\\packages\\",
+        "outputPath": "C:\\Women techsters\\fattyass tasks\\weekninetask1\\NineTask1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kydba\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Women techsters\\fattyass tasks\\weekninetask1\\WeekNineTask1ConsoleApp\\WeekNineTask1ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Women techsters\\fattyass tasks\\weekninetask1\\WeekNineTask1ConsoleApp\\WeekNineTask1ConsoleApp.csproj",
+        "projectName": "WeekNineTask1ConsoleApp",
+        "projectPath": "C:\\Women techsters\\fattyass tasks\\weekninetask1\\WeekNineTask1ConsoleApp\\WeekNineTask1ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\kydba\\.nuget\\packages\\",
+        "outputPath": "C:\\Women techsters\\fattyass tasks\\weekninetask1\\WeekNineTask1ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kydba\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Women techsters\\fattyass tasks\\weekninetask1\\NineTask1\\NineTask1.csproj": {
+                "projectPath": "C:\\Women techsters\\fattyass tasks\\weekninetask1\\NineTask1\\NineTask1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

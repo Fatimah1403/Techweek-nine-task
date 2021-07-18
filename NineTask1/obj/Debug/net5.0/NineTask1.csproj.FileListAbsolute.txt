@@ -1,0 +1,12 @@
+C:\Women techsters\fattyass tasks\weekninetask1\NineTask1\bin\Debug\net5.0\NineTask1.deps.json
+C:\Women techsters\fattyass tasks\weekninetask1\NineTask1\bin\Debug\net5.0\NineTask1.dll
+C:\Women techsters\fattyass tasks\weekninetask1\NineTask1\bin\Debug\net5.0\ref\NineTask1.dll
+C:\Women techsters\fattyass tasks\weekninetask1\NineTask1\bin\Debug\net5.0\NineTask1.pdb
+C:\Women techsters\fattyass tasks\weekninetask1\NineTask1\obj\Debug\net5.0\NineTask1.csproj.AssemblyReference.cache
+C:\Women techsters\fattyass tasks\weekninetask1\NineTask1\obj\Debug\net5.0\NineTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Women techsters\fattyass tasks\weekninetask1\NineTask1\obj\Debug\net5.0\NineTask1.AssemblyInfoInputs.cache
+C:\Women techsters\fattyass tasks\weekninetask1\NineTask1\obj\Debug\net5.0\NineTask1.AssemblyInfo.cs
+C:\Women techsters\fattyass tasks\weekninetask1\NineTask1\obj\Debug\net5.0\NineTask1.csproj.CoreCompileInputs.cache
+C:\Women techsters\fattyass tasks\weekninetask1\NineTask1\obj\Debug\net5.0\NineTask1.dll
+C:\Women techsters\fattyass tasks\weekninetask1\NineTask1\obj\Debug\net5.0\ref\NineTask1.dll
+C:\Women techsters\fattyass tasks\weekninetask1\NineTask1\obj\Debug\net5.0\NineTask1.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WeekNineTask1ConsoleApp/1.0.0": {
+        "dependencies": {
+          "NineTask1": "1.0.0"
+        },
+        "runtime": {
+          "WeekNineTask1ConsoleApp.dll": {}
+        }
+      },
+      "NineTask1/1.0.0": {
+        "runtime": {
+          "NineTask1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeekNineTask1ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NineTask1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
