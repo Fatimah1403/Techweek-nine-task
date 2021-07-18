@@ -7,7 +7,7 @@ namespace WeekNineTask1ConsoleApp
     public class MyCalculator 
     {
         //creating a list
-        List<MyCalculator> myCalculators = new List<MyCalculator>();
+        public static List<MyCalculator> myCalculators = new List<MyCalculator>();
         
         public double initialNumber1 { get; set; }
 
@@ -20,7 +20,7 @@ namespace WeekNineTask1ConsoleApp
         //method to return history message
         public override string ToString()
         {
-            return $"{calcNum1} {calcOp} {calcNum2} = {calcResult}";
+            return $"{initialNumber1} {action} {initialNumber2} = {result}";
         }
         
         //declaring default value for result.

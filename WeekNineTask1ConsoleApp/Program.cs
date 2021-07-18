@@ -67,7 +67,7 @@ namespace WeekNineTask1ConsoleApp
 
                     case "/":
                     {
-                        if (num2 == 0)
+                        if (cleanNumber2 == 0)
                         {
                             Console.WriteLine("You can only divide by a non zero number");
                         }
@@ -98,16 +98,22 @@ namespace WeekNineTask1ConsoleApp
                     }
                 }
                 //Console.WriteLine("The result is " + result);
-                Console.WriteLine("Press 'c' to check your calculation history.");
-                if (Console.ReadLine() == "c")
+                Console.WriteLine("Press'c' to continue");
+                Console.WriteLine("Press 'h' to check your calculation history.");
+                if (Console.ReadLine() == "h")
                 {
                     Console.WriteLine("---------------------------------");
                     Console.WriteLine("CALCULATION HISTORY");
                     Console.WriteLine("---------------------------------");
                     MyCalculator.CheckHistory();
                 }
+                if (Console.ReadLine() == "c")
+                {
+                    endApp = true;
+
+                }
                 Console.WriteLine("Press any key to exit Application");
-                endApp = true;
+                // endApp = true;
             }
         }
     }
